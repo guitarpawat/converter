@@ -7,6 +7,7 @@ This is a simple Java GUI program to convert between distances unit include :
 * Inch
 * Foot
 * Mile
+* Yard
 * Wa (Thai distance unit.)
 
 ## Inside the program
