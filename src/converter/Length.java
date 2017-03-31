@@ -5,7 +5,7 @@ package converter;
  * @author Pawat Nakpiphatkul
  */
 public enum Length implements Unit {
-    METRE("metre",1),CENTIMETER("centimetre",200),KILOMETER("kilometre",0.001),
+    METRE("metre",1),CENTIMETER("centimetre",100),KILOMETER("kilometre",0.001),
     INCH("inch",39.3700787),FEET("feet",3.2808399),MILE("mile",0.000621371192),
     YARD("yard",1.0936133),WA("wa",0.5);
     
